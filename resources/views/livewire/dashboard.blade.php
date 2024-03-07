@@ -1,85 +1,151 @@
 <div>
       <!-- Navbar -->
+      <div class="topnav">
+      <img style="height: 55px!important;" src="https://www.oaxaca.gob.mx/sedeco/wp-content/uploads/sites/60/2023/12/sedeco.png" />
+</div>
       <!-- End Navbar -->
       <div class="container-fluid py-4">
           <div class="row">
-              <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
+              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
                               <i class="material-icons opacity-10">weekend</i>
                           </div>
-                          <div class="text-end pt-1">
-                              <p class="text-sm mb-0 text-capitalize">Today's Money</p>
-                              <h4 class="mb-0">$53k</h4>
-                          </div>
-                      </div>
-                      <hr class="dark horizontal my-0">
-                      <div class="card-footer p-3">
-                          <p class="mb-0"><span class="text-success text-sm font-weight-bolder">+55% </span>than
-                              lask week</p>
+                          <div class="text-end pt-1 pe-3 ps-6">
+                             <p class="text-sm mb-0 text-capitalize">Total de unidades económicas </p>
+                             <h4 class="mb-0">$30,258</h4>
+                         </div>
                       </div>
                   </div>
               </div>
-              <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
+              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
                               <i class="material-icons opacity-10">person</i>
                           </div>
-                          <div class="text-end pt-1">
-                              <p class="text-sm mb-0 text-capitalize">Today's Users</p>
-                              <h4 class="mb-0">2,300</h4>
+                          <div class="text-end pt-1 pe-3 ps-6">
+                              <p class="text-sm mb-0 text-capitalize">Total de personal</p>
+                              <h4 class="mb-0">$350,014</h4>
                           </div>
-                      </div>
-                      <hr class="dark horizontal my-0">
-                      <div class="card-footer p-3">
-                          <p class="mb-0"><span class="text-success text-sm font-weight-bolder">+3% </span>than
-                              lask month</p>
                       </div>
                   </div>
               </div>
-              <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
+              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
                               <i class="material-icons opacity-10">person</i>
                           </div>
-                          <div class="text-end pt-1">
-                              <p class="text-sm mb-0 text-capitalize">New Clients</p>
-                              <h4 class="mb-0">3,462</h4>
+                          <div class="text-end pt-1 pe-3 ps-6">
+                              <p class="text-sm mb-0 text-capitalize">Remuneración promedio por empleado (mensual)</p>
+                              <h4 class="mb-0">$13,655</h4>
                           </div>
-                      </div>
-                      <hr class="dark horizontal my-0">
-                      <div class="card-footer p-3">
-                          <p class="mb-0"><span class="text-danger text-sm font-weight-bolder">-2%</span> than
-                              yesterday</p>
                       </div>
                   </div>
               </div>
-              <div class="col-xl-3 col-sm-6">
+              
+              <div class="col-xl-4 col-sm-6">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl mt-n4 position-absolute">
                               <i class="material-icons opacity-10">weekend</i>
                           </div>
-                          <div class="text-end pt-1">
-                              <p class="text-sm mb-0 text-capitalize">Sales</p>
-                              <h4 class="mb-0">$103,430</h4>
+                          <div class="text-end pt-1 pe-3 ps-6">
+                              <p class="text-sm mb-0 text-capitalize">Productividad laboral promedio (anual)</p>
+                              <h4 class="mb-0">$1,339,160</h4>
                           </div>
-                      </div>
-                      <hr class="dark horizontal my-0">
-                      <div class="card-footer p-3">
-                          <p class="mb-0"><span class="text-success text-sm font-weight-bolder">+5% </span>than
-                              yesterday</p>
                       </div>
                   </div>
               </div>
+
+              <!-- nuevo cuadro de la iamgen -->
+
+              <p class="fs-5 ...">Actividad consultada</p>
+              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+                  <div class="card">
+                      <div class="card-header p-3 pt-2">
+                          <div
+                              class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
+                              <i class="material-icons opacity-10">weekend</i>
+                          </div>
+                          <div class="text-end pt-1 ps-6">
+                             <p class="text-sm mb-0 text-capitalize">Tienda de artículos de limpieza </p>
+                             <h4 class="mb-0">(151)</h4>
+                         </div>
+                      </div>
+                  </div>
+              </div>
+
+              <!-- new div -->
+              <p class="fs-5 ...">Actividad predominante</p>
+
+              <div class="row">
+              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+                  <div class="card">
+                      <div class="card-header p-3 pt-2">
+                          <div
+                              class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
+                              <i class="material-icons opacity-10">weekend</i>
+                          </div>
+                          <div class="text-end pt-1 pe-3 ps-6">
+                             <p class="text-sm mb-0 text-capitalize">Tienda de abarrotes </p>
+                             <h4 class="mb-0">$30,258</h4>
+                         </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+                  <div class="card">
+                      <div class="card-header p-3 pt-2">
+                          <div
+                              class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
+                              <i class="material-icons opacity-10">person</i>
+                          </div>
+                          <div class="text-end pt-1 pe-3 ps-6">
+                              <p class="text-sm mb-0 text-capitalize">Estética</p>
+                              <h4 class="mb-0">(2412)</h4>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+                  <div class="card">
+                      <div class="card-header p-3 pt-2">
+                          <div
+                              class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
+                              <i class="material-icons opacity-10">person</i>
+                          </div>
+                          <div class="text-end pt-1 pe-3 ps-6">
+                              <p class="text-sm mb-0 text-capitalize">Restaurantes a la carta y de comida corrida</p>
+                              <h4 class="mb-0">(869)</h4>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          <!-- Final de componentes top -->
+          <!-- Inicio de nuevo gráficos -->
+
+          <p class="fs-5 ...">Composición de unidades económicas por sector</p>
+
+          <div class="card mb-3">
+  <div class="card-body p-3">
+    <div class="chart">
+      <canvas id="doughnut-chart" class="chart-canvas" height="300px"></canvas>
+    </div>
+  </div>
+</div>
+
+
           </div>
+          
+          <!-- Final de componentes top -->
+
           <!-- COMENTARIO PARA CONTENEDOR DE GRAFICAS -->
           <div class="row mt-4">
               <div class="col-lg-4 col-md-6 mt-4 mb-4">
@@ -144,7 +210,7 @@
                   </div>
               </div>
           </div>
-          <!-- COMENTARIO PARA CONTENEDOR DE GRAFICAS -->
+          <!-- COMENTARIO PARA MOSIFICAR DE GRAFICAS -->
           <div class="row mt-4">
               <div class="col-lg-4 col-md-6 mt-4 mb-4">
                   <div class="card z-index-2 ">
@@ -627,6 +693,10 @@
           </div>
       </div>
   </div>
+  <div class="foot">
+  <p class="text-center font-weight-bold mt-1 mb-0" style="background-color:black">Gobierno del Estado de Oaxaca | webadmin@oaxaca.gob.mx</p>
+
+  </div>
   </div>
   @push('js')
   <script src="{{ asset('assets') }}/js/plugins/chartjs.min.js"></script>
@@ -791,6 +861,38 @@ new Chart(ctx, {
     },
 });
 // fin
+
+// Nuevo script dounot
+var ctx = document.getElementById("doughnut-chart").getContext("2d");
+
+new Chart(ctx, {
+      type: "doughnut",
+      data: {
+          labels: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          datasets: [{
+              label: "Sales",
+              backgroundColor: ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#FF9900", "#33CCCC"],
+              data: [120, 200, 150, 180, 220, 170, 140]
+          }]
+      },
+      options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+              legend: {
+                  display: true,
+                  position: 'bottom'
+              }
+          },
+          interaction: {
+              intersect: false,
+              mode: 'index',
+          }
+      }
+  });
+
+// fin dounnot
+
 
       var ctx2 = document.getElementById("chart-line").getContext("2d");
 
