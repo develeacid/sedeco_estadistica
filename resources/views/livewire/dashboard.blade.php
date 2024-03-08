@@ -2,7 +2,7 @@
       <!-- Navbar -->
       <div class="topnav">
       <img style="height: 55px!important;" src="https://www.oaxaca.gob.mx/sedeco/wp-content/uploads/sites/60/2023/12/sedeco.png" />
-</div>
+      </div>
       <!-- End Navbar -->
       <div class="container-fluid py-4">
           <div class="row">
@@ -134,16 +134,43 @@
           <p class="fs-5 ...">Composición de unidades económicas por sector</p>
 
           <div class="card mb-3">
-  <div class="card-body p-3">
-    <div class="chart">
-      <canvas id="doughnut-chart" class="chart-canvas" height="300px"></canvas>
-    </div>
-  </div>
-</div>
+            <div class="card-body p-3">
+                <div class="chart">
+                <canvas id="doughnut-chart" class="chart-canvas" height="300px"></canvas>
+                </div>
+            </div>
+          </div>  
+        </div>
+          <div>
+                <p class="fs-5...">El 75 % de las unidades económicas tienen de:</p>
+                <div
+                    class="icon icon-lg ">
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">0 a 5 personas</p>
+                </div>
+                
+         </div>
+         <div>
+                <p class="fs-5...">Especialización definida:</p>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm text-capitalize">Unidades económicas</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm text-capitalize">65 %</p>
+                    <p class="text-sm text-capitalize">Personal ocupado</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm  text-capitalize">65 %</p>
+                    <p class="text-sm  text-capitalize">Producción bruta total</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm  text-capitalize">65 %</p>
+                </div>
+                
+         </div>
+         <div>
+         <p class="fs-5...">Índice de desarrollo económico:</p>
+         <i class="material-icons">person</i>
 
-
-          </div>
-          
+         </div>
           <!-- Final de componentes top -->
 
           <!-- COMENTARIO PARA CONTENEDOR DE GRAFICAS -->
@@ -693,10 +720,7 @@
           </div>
       </div>
   </div>
-  <div class="foot">
-  <p class="text-center font-weight-bold mt-1 mb-0" style="background-color:black">Gobierno del Estado de Oaxaca | webadmin@oaxaca.gob.mx</p>
 
-  </div>
   </div>
   @push('js')
   <script src="{{ asset('assets') }}/js/plugins/chartjs.min.js"></script>
