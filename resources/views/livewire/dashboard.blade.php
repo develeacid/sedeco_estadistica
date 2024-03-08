@@ -31,35 +31,35 @@
       <!-- End Navbar -->
       <div class="container-fluid py-4">
           <div class="row">
-              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+              <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
                               <i class="material-icons opacity-10"><span class="material-symbols-outlined">storefront</span></i>
                           </div>
-                          <div class="text-end pt-1 pe-3 ps-6">
+                          <div class="text-end pt-1 pe-3 ps-5">
                              <p class="text-sm mb-0 text-capitalize">Total de unidades económicas </p>
                              <h4 class="mb-0">30,258</h4>
                          </div>
                       </div>
                   </div>
               </div>
-              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+              <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
                               <i class="material-icons opacity-10"><span class="material-symbols-outlined">diversity_3</span></i>
                           </div>
-                          <div class="text-end pt-1 pe-3 ps-6">
+                          <div class="text-end pt-1 pe-3 ps-5">
                               <p class="text-sm mb-0 text-capitalize">Total de personal</p>
                               <h4 class="mb-0">350,014</h4>
                           </div>
                       </div>
                   </div>
               </div>
-              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+              <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
@@ -74,7 +74,7 @@
                   </div>
               </div>
               
-              <div class="col-xl-4 col-sm-6">
+              <div class="col-xl-3 col-sm-6">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
@@ -92,7 +92,7 @@
               <!-- nuevo cuadro de la iamgen -->
 
               <p class="fs-5 ...">Actividad consultada</p>
-              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
+              <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
@@ -124,7 +124,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+    <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
     <div class="card">
         <div class="card-header p-3 pt-2">
                 <div class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
