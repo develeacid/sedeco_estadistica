@@ -4,6 +4,21 @@
       <img style="height: 55px!important;" src="https://www.oaxaca.gob.mx/sedeco/wp-content/uploads/sites/60/2023/12/sedeco.png" />
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
       </div>
+      <style>
+        .material-symbols-outlined {
+        font-variation-settings:
+        'FILL' 0,
+        'wght' 2000,
+        'GRAD' 0,
+        'opsz' 48
+        }
+        .icons-big {
+            font-size: 150px; /* Tamaño deseado */
+        }
+        .icons-mid {
+            font-size: 100px; /* Tamaño deseado */
+        }
+    </style>
       <!-- End Navbar -->
       <div class="container-fluid py-4">
           <div class="row">
@@ -166,7 +181,7 @@
          <div>
                 <div
                     class="icon icon-lg">
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined icons-big">emoji_people</span></i>
                     <p class="text-sm mb-0 text-capitalize">0 a 5 personas</p>
                 </div>
         </div>
@@ -176,7 +191,7 @@
          <div>
             <div class="icon icon-lg me-2 d-inline">
                 <p class="text-capitalize mb-0 me-1 d-inline">Unidades económicas</p>
-                <i class="material-icons d-inline">person</i>
+                <i class="material-icons d-inline"><span class="material-symbols-outlined">person_apron</span></i>
                 <p class="text-sm text-capitalize mb-0 ms-1 d-inline">55 %</p>
             </div>
         </div>
@@ -184,14 +199,14 @@
         <div>
             <div class="icon icon-lg me-2 d-inline">
                 <p class="text-capitalize mb-0 me-1 d-inline">Personal ocupado</p>
-                <i class="material-icons d-inline">person</i>
+                <i class="material-icons d-inline"><span class="material-symbols-outlined">person_apron</span></i>
                 <p class="text-sm text-capitalize mb-0 ms-1 d-inline">65 %</p>
             </div>
         </div>
         <div>
             <div class="icon icon-lg me-2 d-inline">
                 <p class="text-capitalize mb-0 me-1 d-inline">Producción bruta total</p>
-                <i class="material-icons d-inline">person</i>
+                <i class="material-icons d-inline"><span class="material-symbols-outlined">person_apron</span></i>
                 <p class="text-sm text-capitalize mb-0 ms-1 d-inline">53 %</p>
             </div>
         </div>
@@ -203,7 +218,7 @@
          <div>
                 <div
                     class="icon icon-lg ">
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined icons-mid">thermostat</span></i>
                     <p class="text-sm mb-0 text-capitalize">asd</p>
                 </div>
         </div>
