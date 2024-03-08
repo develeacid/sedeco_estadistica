@@ -2,6 +2,7 @@
       <!-- Navbar -->
       <div class="topnav">
       <img style="height: 55px!important;" src="https://www.oaxaca.gob.mx/sedeco/wp-content/uploads/sites/60/2023/12/sedeco.png" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
       </div>
       <!-- End Navbar -->
       <div class="container-fluid py-4">
@@ -11,7 +12,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">weekend</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">storefront</span></i>
                           </div>
                           <div class="text-end pt-1 pe-3 ps-6">
                              <p class="text-sm mb-0 text-capitalize">Total de unidades económicas </p>
@@ -25,7 +26,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">person</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">diversity_3</span></i>
                           </div>
                           <div class="text-end pt-1 pe-3 ps-6">
                               <p class="text-sm mb-0 text-capitalize">Total de personal</p>
@@ -39,7 +40,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">person</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">universal_currency</span></i>
                           </div>
                           <div class="text-end pt-1 pe-3 ps-6">
                               <p class="text-sm mb-0 text-capitalize">Remuneración promedio por empleado (mensual)</p>
@@ -54,7 +55,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">weekend</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">manufacturing</span></i>
                           </div>
                           <div class="text-end pt-1 pe-3 ps-6">
                               <p class="text-sm mb-0 text-capitalize">Productividad laboral promedio (anual)</p>
@@ -72,7 +73,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">weekend</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">cleaning</span></i>
                           </div>
                           <div class="text-end pt-1 ps-6">
                              <p class="text-sm mb-0 text-capitalize">Tienda de artículos de limpieza </p>
@@ -91,7 +92,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">weekend</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">shopping_basket</span></i>
                           </div>
                           <div class="text-end pt-1 pe-3 ps-6">
                              <p class="text-sm mb-0 text-capitalize">Tienda de abarrotes </p>
@@ -105,7 +106,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">person</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">content_cut</span></i>
                           </div>
                           <div class="text-end pt-1 pe-3 ps-6">
                               <p class="text-sm mb-0 text-capitalize">Estética</p>
@@ -119,7 +120,7 @@
                       <div class="card-header p-3 pt-2">
                           <div
                               class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10">person</i>
+                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">restaurant</span></i>
                           </div>
                           <div class="text-end pt-1 pe-3 ps-6">
                               <p class="text-sm mb-0 text-capitalize">Restaurantes a la carta y de comida corrida</p>
