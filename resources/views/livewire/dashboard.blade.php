@@ -298,7 +298,10 @@
         </div>
 <!-- nuevo a partado -->
 
-             <p class="fs-5 me-2 d-inline">Índice de desarrollo social:</p>
+<div class="row">
+    <div class="col-sm-12 col-md-6">
+        <!-- Contenido del primer espacio -->
+        <p class="fs-5 me-2 d-inline">Índice de desarrollo social:</p>
          <div>
                 <div
                     class="icon icon-lg ">
@@ -323,8 +326,11 @@
                 </div>
         </div>
 <!-- fin de nuevo apartado -->
+    </div>
+    <div class="col-sm-12 col-md-6">
+        
 <!-- nuevo a partado -->
-             <p class="fs-5 me-2 d-inline">Grandes grupos de edad:</p>
+<p class="fs-5 me-2 d-inline">Grandes grupos de edad:</p>
          <div>
                 <div
                     class="icon icon-lg ">
@@ -399,6 +405,10 @@
                 </div>
         </div>
 <!-- fin de nuevo apartado -->
+    </div>
+</div>
+
+             
           <!-- COMENTARIO PARA CONTENEDOR DE GRAFICAS -->
           <div class="row mt-4">
               <div class="col-lg-4 col-md-6 mt-4 mb-4">
