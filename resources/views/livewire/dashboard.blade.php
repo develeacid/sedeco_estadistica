@@ -208,6 +208,173 @@
         </div>
           <!-- Final de componentes top -->
 
+          <div class="container-fluid py-4">
+            <div class="row">
+                <div class="col-xl-3 col-sm-6 mb-4">
+                    <div class="card">
+                        <div class="card-header pt-2">
+                            <div class="d-flex align-items-center">
+                                <div class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl me-3">
+                                    <i class="material-icons opacity-10">weekend</i>
+                                </div>
+                                <div>
+                                    <p class="text-sm mb-0 text-capitalize">Superficie</p>
+                                    <h4 class="mb-0">6,572.37 ha</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-sm-6 mb-4">
+                    <div class="card">
+                        <div class="card-header pt-2">
+                            <div class="d-flex align-items-center">
+                                <div class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl me-3">
+                                    <i class="material-icons opacity-10">person</i>
+                                </div>
+                                <div>
+                                    <p class="text-sm mb-0 text-capitalize">Población total</p>
+                                    <h4 class="mb-0">760,549</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-sm-6 mb-4">
+                    <div class="card">
+                        <div class="card-header pt-2">
+                            <div class="d-flex align-items-center">
+                                <div class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl me-3">
+                                    <i class="material-icons opacity-10">person</i>
+                                </div>
+                                <div>
+                                    <p class="text-sm mb-0 text-capitalize">Viviendas totales</p>
+                                    <h4 class="mb-0">248,280</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-sm-6">
+                    <div class="card">
+                        <div class="card-header pt-2">
+                            <div class="d-flex align-items-center">
+                                <div class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl me-3">
+                                    <i class="material-icons opacity-10">weekend</i>
+                                </div>
+                                <div>
+                                    <p class="text-sm mb-0 text-capitalize">Total de unidades económicas</p>
+                                    <h4 class="mb-0">30,258</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- nuevo a partado -->
+
+             <p class="fs-5 me-2 d-inline">Índice de desarrollo social:</p>
+         <div>
+                <div
+                    class="icon icon-lg ">
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">asd</p>
+                </div>
+        </div>
+<!-- fin de nuevo apartado -->
+<!-- nuevo a partado -->
+
+             <p class="fs-5 me-2 d-inline">Districuición por sexo:</p>
+         <div>
+                <div
+                    class="icon icon-lg ">
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">46.8 %</p>
+                </div>
+                <div
+                    class="icon icon-lg ">
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">53.2 %</p>
+                </div>
+        </div>
+<!-- fin de nuevo apartado -->
+<!-- nuevo a partado -->
+             <p class="fs-5 me-2 d-inline">Grandes grupos de edad:</p>
+         <div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Niños</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">20.1 %</p>
+                </div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Jóvenes</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">16.3 %</p>
+                </div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Adultos jóvenes</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">32.2 %</p>
+                </div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Adultos</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">21.9 %</p>
+                </div>
+                <div
+                class="icon icon-lg ">
+                <p class="text-sm mb-0 text-capitalize">Adultos mayores</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">9.5 %</p>
+                </div>
+        </div>
+<!-- fin de nuevo apartado -->
+<!-- nuevo a partado -->
+<p class="fs-5 me-2 d-inline">Nivel de escolaridad:</p>
+         <div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Preescolar</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">20.1 %</p>
+                </div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Primaria</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">16.3 %</p>
+                </div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Secundaria</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">32.2 %</p>
+                </div>
+                <div
+                    class="icon icon-lg ">
+                    <p class="text-sm mb-0 text-capitalize">Bachillerato</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">21.9 %</p>
+                </div>
+                <div
+                class="icon icon-lg ">
+                <p class="text-sm mb-0 text-capitalize">Universidad</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">9.5 %</p>
+                </div>
+                <div
+                class="icon icon-lg ">
+                <p class="text-sm mb-0 text-capitalize">Posgrado</p>
+                    <i class="material-icons opacity-10">person</i>
+                    <p class="text-sm mb-0 text-capitalize">9.5 %</p>
+                </div>
+        </div>
+<!-- fin de nuevo apartado -->
           <!-- COMENTARIO PARA CONTENEDOR DE GRAFICAS -->
           <div class="row mt-4">
               <div class="col-lg-4 col-md-6 mt-4 mb-4">
@@ -273,7 +440,6 @@
               </div>
           </div>
           <!-- COMENTARIO PARA MOSIFICAR DE GRAFICAS -->
-
       </div>
   </div>
 
