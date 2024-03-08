@@ -99,51 +99,50 @@
               </div>
 
               <!-- new div -->
-              <p class="fs-5 ...">Actividad predominante</p>
+              <p class="fs-5">Actividad predominante</p>
 
-              <div class="row">
-              <div class="col-xl-3 col-sm-2 mb-xl-0 mb-4">
-                  <div class="card">
-                      <div class="card-header p-3 pt-2">
-                          <div
-                              class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">shopping_basket</span></i>
-                          </div>
-                          <div class="text-end pt-1 pe-3">
-                             <p class="text-sm mb-0 text-capitalize">Tienda de abarrotes </p>
-                             <h4 class="mb-0">(2412)</h4>
-                         </div>
-                      </div>
-                  </div>
-              </div>
-              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
-                  <div class="card">
-                      <div class="card-header p-3 pt-2">
-                          <div
-                              class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">content_cut</span></i>
-                          </div>
-                          <div class="text-end pt-1 pe-3">
-                              <p class="text-sm mb-0 text-capitalize">Estética</p>
-                              <h4 class="mb-0">(1227)</h4>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-              <div class="col-xl-4 col-sm-6 mb-xl-0 mb-4">
-                  <div class="card">
-                      <div class="card-header p-3 pt-2">
-                          <div
-                              class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
-                              <i class="material-icons opacity-10"><span class="material-symbols-outlined">restaurant</span></i>
-                          </div>
-                          <div class="text-end pt-1 pe-3 ps-6">
-                              <p class="text-sm mb-0 text-capitalize">Restaurantes a la carta y de comida corrida</p>
-                              <h4 class="mb-0">(869)</h4>
-                          </div>
-                      </div>
-                  </div>
-              </div>
+<div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+        <div class="card">
+            <div class="card-header p-3 pt-2">
+                <div class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">shopping_basket</span></i>
+                </div>
+                <div class="text-end pt-1 pe-3">
+                    <p class="text-sm mb-0 text-capitalize">Tienda de abarrotes</p>
+                    <h4 class="mb-0">(2412)</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+    <div class="card">
+        <div class="card-header p-3 pt-2">
+                <div class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">content_cut</span></i>
+                </div>
+                <div class="text-end pt-1 pe-3">
+                    <p class="text-sm mb-0 text-capitalize">Estética</p>
+                    <h4 class="mb-0">(1227)</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-6 mb-4">
+        <div class="card">
+            <div class="card-header p-3 pt-2">
+                <div class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">restaurant</span></i>
+                </div>
+                <div class="text-end pt-1 pe-3 ps-6">
+                    <p class="text-sm mb-0 text-capitalize">Restaurantes a la carta y de comida corrida</p>
+                    <h4 class="mb-0">(869)</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
           <!-- Final de componentes top -->
           <!-- Inicio de nuevo gráficos -->
 
