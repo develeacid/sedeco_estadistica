@@ -16,7 +16,7 @@
             font-size: 150px; /* Tamaño deseado */
         }
         .icons-mid {
-            font-size: 100px; /* Tamaño deseado */
+            font-size: 80px; /* Tamaño deseado */
         }
     </style>
       <!-- End Navbar -->
@@ -231,7 +231,7 @@
                         <div class="card-header pt-2">
                             <div class="d-flex align-items-center">
                                 <div class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl me-3">
-                                    <i class="material-icons opacity-10">weekend</i>
+                                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">rounded_corner</span></i>
                                 </div>
                                 <div>
                                     <p class="text-sm mb-0 text-capitalize">Superficie</p>
@@ -246,7 +246,7 @@
                         <div class="card-header pt-2">
                             <div class="d-flex align-items-center">
                                 <div class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl me-3">
-                                    <i class="material-icons opacity-10">person</i>
+                                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">groups</span></i>
                                 </div>
                                 <div>
                                     <p class="text-sm mb-0 text-capitalize">Población total</p>
@@ -261,7 +261,7 @@
                         <div class="card-header pt-2">
                             <div class="d-flex align-items-center">
                                 <div class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl me-3">
-                                    <i class="material-icons opacity-10">person</i>
+                                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">cottage</span></i>
                                 </div>
                                 <div>
                                     <p class="text-sm mb-0 text-capitalize">Viviendas totales</p>
@@ -276,7 +276,7 @@
                         <div class="card-header pt-2">
                             <div class="d-flex align-items-center">
                                 <div class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl me-3">
-                                    <i class="material-icons opacity-10">weekend</i>
+                                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">storefront</span></i>
                                 </div>
                                 <div>
                                     <p class="text-sm mb-0 text-capitalize">Total de unidades económicas</p>
@@ -294,7 +294,7 @@
          <div>
                 <div
                     class="icon icon-lg ">
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined icons-mid">device_thermostat</span></i>
                     <p class="text-sm mb-0 text-capitalize">asd</p>
                 </div>
         </div>
@@ -305,12 +305,12 @@
          <div>
                 <div
                     class="icon icon-lg ">
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined icons-mid">man_2</span></i>
                     <p class="text-sm mb-0 text-capitalize">46.8 %</p>
                 </div>
                 <div
                     class="icon icon-lg ">
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined icons-mid">woman_2</span></i>
                     <p class="text-sm mb-0 text-capitalize">53.2 %</p>
                 </div>
         </div>
@@ -321,19 +321,19 @@
                 <div
                     class="icon icon-lg ">
                     <p class="text-sm mb-0 text-capitalize">Niños</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">boy</span></i>
                     <p class="text-sm mb-0 text-capitalize">20.1 %</p>
                 </div>
                 <div
                     class="icon icon-lg ">
                     <p class="text-sm mb-0 text-capitalize">Jóvenes</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">sports_handball</span></i>
                     <p class="text-sm mb-0 text-capitalize">16.3 %</p>
                 </div>
                 <div
                     class="icon icon-lg ">
                     <p class="text-sm mb-0 text-capitalize">Adultos jóvenes</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">directions_walk</span></i>
                     <p class="text-sm mb-0 text-capitalize">32.2 %</p>
                 </div>
                 <div
@@ -345,7 +345,7 @@
                 <div
                 class="icon icon-lg ">
                 <p class="text-sm mb-0 text-capitalize">Adultos mayores</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">elderly</span></i>
                     <p class="text-sm mb-0 text-capitalize">9.5 %</p>
                 </div>
         </div>
@@ -356,37 +356,37 @@
                 <div
                     class="icon icon-lg ">
                     <p class="text-sm mb-0 text-capitalize">Preescolar</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">school</span></i>
                     <p class="text-sm mb-0 text-capitalize">20.1 %</p>
                 </div>
                 <div
                     class="icon icon-lg ">
                     <p class="text-sm mb-0 text-capitalize">Primaria</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">school</span></i>
                     <p class="text-sm mb-0 text-capitalize">16.3 %</p>
                 </div>
                 <div
                     class="icon icon-lg ">
                     <p class="text-sm mb-0 text-capitalize">Secundaria</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">school</span></i>
                     <p class="text-sm mb-0 text-capitalize">32.2 %</p>
                 </div>
                 <div
                     class="icon icon-lg ">
                     <p class="text-sm mb-0 text-capitalize">Bachillerato</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">school</span></i>
                     <p class="text-sm mb-0 text-capitalize">21.9 %</p>
                 </div>
                 <div
                 class="icon icon-lg ">
                 <p class="text-sm mb-0 text-capitalize">Universidad</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">school</span></i>
                     <p class="text-sm mb-0 text-capitalize">9.5 %</p>
                 </div>
                 <div
                 class="icon icon-lg ">
                 <p class="text-sm mb-0 text-capitalize">Posgrado</p>
-                    <i class="material-icons opacity-10">person</i>
+                    <i class="material-icons opacity-10"><span class="material-symbols-outlined">school</span></i>
                     <p class="text-sm mb-0 text-capitalize">9.5 %</p>
                 </div>
         </div>
