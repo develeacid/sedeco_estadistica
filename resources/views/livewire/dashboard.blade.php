@@ -21,13 +21,15 @@
             font-size: 100px; /* Tamaño deseado */
         }
     </style>
+
+<!-- estilos del mapa -->
     <style>
   #map { 
     width: 100%;
     height: 580px;
     box-shadow: 5px 5px 5px #888;
  }
-</style>
+</style><!-- termina los estilos del mapa -->
       <!-- End Navbar -->
       <div class="container-fluid py-4">
           <div class="row">
