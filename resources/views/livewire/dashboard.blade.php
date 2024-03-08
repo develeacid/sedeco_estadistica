@@ -474,7 +474,7 @@
   </div>
   <script>
   var map = L.map('map').
-     setView([17.06542, -96.72365],
+     setView([17.0550147,-96.6563298],
      15);
 
      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -483,7 +483,7 @@
     }).addTo(map);
 
     L.control.scale().addTo(map);
-    L.marker([17.06542, -96.72365],{draggable: true}).addTo(map);
+    L.marker([17.0550147,-96.6563298],{draggable: true}).addTo(map);
 </script>
 <!-- termina el area del mapa -->
 
