@@ -4,6 +4,8 @@
       <img style="height: 55px!important;" src="https://www.oaxaca.gob.mx/sedeco/wp-content/uploads/sites/60/2023/12/sedeco.png" />
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
       </div>
+      <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
       <style>
         .material-symbols-outlined {
         font-variation-settings:
@@ -19,6 +21,13 @@
             font-size: 80px; /* Tamaño deseado */
         }
     </style>
+    <style>
+  #map { 
+    width: 100%;
+    height: 580px;
+    box-shadow: 5px 5px 5px #888;
+ }
+</style>
       <!-- End Navbar -->
       <div class="container-fluid py-4">
           <div class="row">
@@ -459,7 +468,28 @@
       </div>
   </div>
 
+
+
+<!-- area del mapa -->
+  <div id="map"></div>
   </div>
+  <script>
+  var map = L.map('map').
+     setView([17.06542, -96.72365],
+     15);
+
+     L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+    maxZoom: 18
+    }).addTo(map);
+
+    L.control.scale().addTo(map);
+    L.marker([17.06542, -96.72365],{draggable: true}).addTo(map);
+</script>
+<!-- termina el area del mapa -->
+
+
+
   @push('js')
   <script src="{{ asset('assets') }}/js/plugins/chartjs.min.js"></script>
   <script>
